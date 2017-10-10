@@ -1,0 +1,164 @@
+var friends = [
+{
+  "name":"Joshua",
+  "photo":"https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Steve",
+  "photo":"https://images.pexels.com/photos/428339/pexels-photo-428339.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     4,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Mary",
+  "photo":"https://images.pexels.com/photos/458665/pexels-photo-458665.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+  "scores":[
+     9,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Korina",
+  "photo":"https://images.pexels.com/photos/413885/pexels-photo-413885.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Joanna",
+  "photo":"https://images.pexels.com/photos/206479/pexels-photo-206479.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Missy",
+  "photo":"https://images.pexels.com/photos/247855/pexels-photo-247855.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Jen",
+  "photo":"https://images.pexels.com/photos/415298/pexels-photo-415298.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Jack",
+  "photo":"https://images.pexels.com/photos/415326/pexels-photo-415326.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Ollie",
+  "photo":"https://images.pexels.com/photos/249761/pexels-photo-249761.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Allen",
+  "photo":"https://images.pexels.com/photos/532220/pexels-photo-532220.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+}
+]
+
+module.exports = friends;
